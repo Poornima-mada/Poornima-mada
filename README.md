@@ -1,4 +1,5 @@
-![Profile Banner]![Header](./your-header-image-name.png)  <!-- Replace with your banner image URL -->
+![github-header-image](https://github.com/Poornima-mada/Poornima-mada/assets/78364225/d31612ed-79e3-4320-b254-3f765841cf19)
+  <!-- Replace with your banner image URL -->
 
 # Hi there, I'm Poornima! 👋
 
