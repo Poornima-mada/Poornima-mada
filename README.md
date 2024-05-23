@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/Poornima-mada/Poornima-mada/assets/78364225/d31612ed-79e3-4320-b254-3f765841cf19)
   <!-- Replace with your banner image URL -->
 
-# Hi there, I'm Poornima! 👋
+# Hello folks, good to see you here...! 👋
 
 I am a passionate programmer who is always curious to learn new things and ready for innovative collaborations. I love exploring new technologies and working on exciting projects that challenge my skills and creativity.
 
