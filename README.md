@@ -1,4 +1,4 @@
-![Profile Banner](https://your-banner-image-url)  <!-- Replace with your banner image URL -->
+![Profile Banner]![Header](./your-header-image-name.png)  <!-- Replace with your banner image URL -->
 
 # Hi there, I'm Poornima! 👋
 
