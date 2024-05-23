@@ -42,31 +42,5 @@ A personal assistant AI project that helps with daily tasks and provides informa
   </a>
 </p>
 
-<style>
-.project-link {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px;
-  background-color: #f1f1f1;
-  border-radius: 5px;
-  transition: transform 0.2s, background-color 0.2s;
-  text-decoration: none;
-  color: #333;
-}
 
-.project-link:hover {
-  transform: scale(1.05);
-  background-color: #e2e2e2;
-}
 
-.skill-icon {
-  width: 60px;
-  height: 60px;
-  margin: 5px;
-  transition: transform 0.2s;
-}
-
-.skill-icon:hover {
-  transform: scale(1.2);
-}
-</style>
